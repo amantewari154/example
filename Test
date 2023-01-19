@@ -1,0 +1,62 @@
+SECTION A
+
+2. The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
+A key element of Spring is infrastructural support at the application level: Spring focuses on the "plumbing" of enterprise applications so that teams can focus on application-level business logic, without unnecessary ties to specific deployment environments.
+
+3.	•	Pre-defined Templates
+* Loose Coupling
+* Easy and Simple to Test
+* Non-invasive
+* Fast Development
+* Strong Abstraction Support
+* Lightweight IoC
+* Constant Transaction Management
+
+4. (Inversion of Control) Container. 
+* Support for aspect-oriented programing. 
+* Data access framework. 
+* Transaction management framework. 
+* Spring MVC framework. 
+* Spring web service. 
+* Spring test frameworks.
+* Core container
+5. core, beans, context, expression language, AOP, Aspects, Instrumentation, JDBC, ORM, OXM, JMS, Transaction, Web, Servlet, Struts
+6. A Spring configuration file is an XML file that contains the classes information. It describes how those classes are configured as well as introduced to each other.
+7. Spring Boot Framework has mainly four major Components.
+* Spring Boot Starters.
+* Spring Boot AutoConfigurator.
+* Spring Boot CLI.
+* Spring Boot Actuator.
+8. 
+* xml-based configuration, when you describe configuration in xml file;
+* java-based configuration, when configuration is Java class, marked with specific annotations;
+* groovy-based configuration
+9. Spring IoC Container is the core of Spring Framework. It creates the objects, configures and assembles their dependencies, manages their entire life cycle. The Container uses Dependency Injection(DI) to manage the components that make up the application.
+10. Dependency Injection is a fundamental aspect of the Spring framework, through which the Spring container “injects” objects into other objects or “dependencies”.
+12  	1	Change the Port Using Configuration Files.
+1. Command Line Argument.
+2. Spring Boot 2: Change Port Using the ConfigurableServletWebServerFactory Class.
+3. Spring Boot 1: Change Port Using the ConfigurableEmbeddedServletContainer.
+4. Use a Random HTTP Port.
+
+SECTION B
+1. D
+2. A
+3. B
+4. A
+5. B
+6. A
+7. A
+8. A
+9. A
+10. B
+11. B
+12. A
+13. B
+14. A
+15. D
+16. D
+17. A
+18. B
+19. D
+20. B
